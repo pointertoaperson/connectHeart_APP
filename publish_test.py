@@ -15,8 +15,7 @@ def main():
 
     try:
         while True:
-            # Generate a random ADC value (0–1023)
-            adc_value = random.randint(0, 1023)
+            
             payload_1 = "Heart Rate: 91" 
             payload_2 = "Heart Rate: 77"
 
