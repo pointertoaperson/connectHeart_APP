@@ -4,7 +4,7 @@ import random
 
 GROUP = "TEST"
 DEVICE = "DEV01"
-BROKER = "broker.hivemq.com"  # ✅ Corrected
+BROKER = "broker.hivemq.com"  
 PORT = 1883
 TOPIC_DEV1 =  GROUP + "/"+ DEVICE + "/heart"
 TOPIC_DEV2 = "TEST/DEV02/heart" 
