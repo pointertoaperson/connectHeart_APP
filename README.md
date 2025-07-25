@@ -25,27 +25,6 @@
 - **MQTT Configuration Sender**  
   Sends settings via HTTP POST to the embedded device (typically hosted at `192.168.4.1`) for device configuration.
 
-- **Heart Data Viewer**   
-  Displays real-time heart-related information (e.g., pulse rate, ECG signal, status alerts) from the connected IoT device.
-
----
-
-
-## Features
-
-- **Secure Settings Storage**  
-  Uses AndroidX EncryptedSharedPreferences to safely store:
-  - Wi-Fi SSID and password  
-  - MQTT broker address  
-  - MQTT username and password  
-  - Device ID and group name  
-
-- **Wi-Fi Scan and Selection**  
-  Scans for nearby Wi-Fi networks and allows users to select the desired one.
-
-- **MQTT Configuration Sender**  
-  Sends settings via HTTP POST to the embedded device (typically hosted at `192.168.4.1`) for device configuration.
-
 - **Heart Data Viewer**  
   Displays real-time heart-related information (e.g., pulse rate, ECG signal, status alerts) from the connected IoT device.
 
