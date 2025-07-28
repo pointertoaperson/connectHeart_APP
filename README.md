@@ -1,3 +1,6 @@
+>  **Disclaimer:**  
+> This project is provided "as is" without any warranty. If you choose to build and install it on your device, you do so **at your own risk**. I take **no responsibility** for any damage, data loss, or other issues that may arise.
+
 # ConnectHeart
 
 **ConnectHeart** is an Android app designed to configure and communicate with a Wi-Fi-enabled one or more heart monitoring device project [project] (https://github.com/pointertoaperson/sensor_ppg). The app securely saves Wi-Fi and MQTT settings, sends them to the device, and displays heart-related information received from it.
